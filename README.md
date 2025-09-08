@@ -1,2 +1,2 @@
 # asteroids_game
-Asteroids game boots.dev
+Asteroids Game is my second [Boot.dev](https://www.boot.dev) project!
